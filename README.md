@@ -1,2 +1,2 @@
-# Miss-o-Artemis-2
-um trabalho de matematica computacional utilizando o diagrama de ven
+#algoritmos e programacao
+trabalho da faculdade 1º periudo
